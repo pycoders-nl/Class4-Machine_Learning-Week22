@@ -8,5 +8,7 @@ You are expected to develop a model that predicts the maximum temperature by usi
 
 Note: You will see on excel table that >> sheet-1 > Observation, sheet-2> the field which you will put into the  performance measurements.
 
+
+
 Success! 
 
