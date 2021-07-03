@@ -1,3 +1,5 @@
+Kaggle Link: https://www.kaggle.com/ozgurozgur/week22?scriptVersionId=67322967
+
 # Class4-Machine_Learning-Week22 - Assignment
 
 We will use the dataset linked at https://www.kaggle.com/jsphyg/weather-dataset-rattle-package. 
